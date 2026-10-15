@@ -1,0 +1,6 @@
+{
+  "target_label": "inspection_car",
+  "radius_m": 5.0,
+  "altitude_m": 4.0,
+  "max_altitude_m": 10.0
+}

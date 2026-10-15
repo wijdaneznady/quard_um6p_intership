@@ -1,0 +1,5 @@
+{
+  "drone_id": "uav_1",
+  "battery_warning_pct": 25.0,
+  "max_altitude_m": 10.0
+}
